@@ -10,7 +10,7 @@ The project evaluates some of the ratings data in order to journalists and food 
 ## Usage
 
 1. Open Jupyter Lab
-2. Import pNoSQL_setup_starter.ipynb and NoSQL_analysis_starter.ipynb
+2. Import NoSQL_setup_starter.ipynb and NoSQL_analysis_starter.ipynb
 3. Run the kernel
 4. Check kernel outputs 
 
