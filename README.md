@@ -3,7 +3,7 @@
 
 ## Description
 
-The project evaluate some of the ratings data in order to journalists and food critics decide where to focus future articles. It includes two jupyter files and one folder called Resources, which contains a json file named establishments.json. The NoSQL_setup_starter.ipynb imports the json file via mongoimport, while NoSQL_analysis_starter.ipynb shows four queries about uk_food database. 
+The project evaluates some of the ratings data in order to journalists and food critics decide where to focus future articles. It includes two jupyter files and one folder called Resources, which contains a json file named establishments.json. The NoSQL_setup_starter.ipynb imports the json file via mongoimport, while NoSQL_analysis_starter.ipynb shows four queries about uk_food database. 
 
 ---
 
